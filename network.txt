@@ -1,0 +1,6 @@
+P John
+P Mary
+P Bob
+R 0 John Mary
+R 1 Mary Bob
+R 3 John Bob
